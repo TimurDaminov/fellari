@@ -55,7 +55,7 @@ export let words = [
     },
     {
         rus: 'хотеть',
-        uzbek: 'hohlamoq',
+        uzbek: 'xohlamoq',
         status: {
             tests: 0,
             trues: 0,
@@ -71,7 +71,7 @@ export let words = [
     },
     {
         rus: 'иметь',
-        uzbek: `ega bo'rmoq`,
+        uzbek: `ega bo'lmoq`,
         status: {
             tests: 0,
             trues: 0,
@@ -103,7 +103,7 @@ export let words = [
     },
     {
         rus: 'жить',
-        uzbek: 'yashnamoq',
+        uzbek: 'yashamoq',
         status: {
             tests: 0,
             trues: 0,
@@ -191,7 +191,7 @@ export let words = [
     },
     {
         rus: 'оказаться',
-        uzbek: `paydobo'lmoq`,
+        uzbek: `paydo bo'lmoq`,
         status: {
             tests: 0,
             trues: 0,
@@ -399,7 +399,7 @@ export let words = [
     },
     {
         rus: 'подумать',
-        uzbek: `o'ynamoq`,
+        uzbek: `o'ylamoq`,
         status: {
             tests: 0,
             trues: 0,
@@ -479,7 +479,7 @@ export let words = [
     },
     {
         rus: 'поставить',
-        uzbek: `ko'ymoq`,
+        uzbek: `qo'ymoq`,
         status: {
             tests: 0,
             trues: 0,
@@ -495,7 +495,7 @@ export let words = [
     },
     {
         rus: 'существовать',
-        uzbek: 'yashmoq',
+        uzbek: 'yashamoq',
         status: {
             tests: 0,
             trues: 0,
